@@ -1,0 +1,263 @@
+body {
+  background-color: lightskyblue;
+}
+.banner {
+  background: url(../image/COLOR-MEANINGS.jpg) no-repeat ;
+  color: black;
+  height: 22.5em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  
+  font-size: 24px
+
+}
+.banner h1 {
+  text-align: center;
+  padding-top: 25%;
+  padding-right: 2%;
+  letter-spacing: 2px;
+  font-family:fantasy;
+  
+}
+.banner h2 {
+  color: #5a1818;
+  text-align: center;
+  padding-right: 0%;
+  text-align: center;
+}
+span {
+  font-family:cursive;
+  font-style:italic;
+  text-align: center;
+}
+.banner h3 {
+  text-align: center;
+  padding-right: 1%;
+}
+
+.color {
+  text-align: left;
+  background-color: teal;
+  color: whitesmoke;
+  font-size: 40px;
+  font-weight:bold;
+  text-transform:uppercase;
+  text-align: center;
+}
+
+.colorpanel {
+  border: 1px solid black;
+  margin-top: 10px;
+  width: 100%;
+  font-family: 'Courier New';
+}
+
+.panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+.green {
+  background-color: #fcf9fc;
+ 
+}
+.yellow {
+  background-color: yellow;
+}
+.green-panel {
+  background-color: hsl(132, 100%, 50%);
+}
+.darkcherryred {
+ background-color: hsl(0, 100%, 10%); 
+ color: whitesmoke;
+}
+.darkorchid3 {
+  background-color: hsl(280, 61%, 50%) ;
+}
+.geraniumlake {
+  background-color:hsl(351, 85%, 48%);
+  color: whitesmoke;
+}
+.fontpanel {
+  border: 1px solid black;
+  text-align: center;
+}
+.firstfont {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.regular-playfair {
+  font-family: 'Courier New';
+  font-size: x-large;
+}
+.bold {
+  font-weight: bold;
+}
+.italy {
+  font-style: italic;
+}
+
+.regular-times {
+  font-family:cursive;
+  font-size: x-large;
+}
+.under_l {
+  text-decoration: underline;
+
+}
+.textstyle {
+  border: 1px solid black;
+  padding-left:  40%;
+  
+}
+.main {
+  font-size: 32px;
+  text-decoration: underline;
+}
+.supmain {
+  font-size: 18px;
+  text-decoration: underline;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+  margin-bottom: 20px;
+  grid-gap: 3px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 16px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.black {
+  background-color: black;
+  color: white;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.aqua {
+  background-color: aqua;
+}
+
+.bisque {
+  background-color: bisque;
+}
+
+.blueviolet {
+  background-color: blueviolet;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.burlywood {
+  background-color: burlywood;
+}
+
+.chartreuse {
+  background-color: chartreuse;
+}
+
+.chocolate {
+  background-color: chocolate;
+}
+
+.coral {
+  background-color: coral;
+}
+
+.crimson {
+  background-color: crimson;
+}
+
+.cyan {
+  background-color: cyan;
+}
+
+.darkblue {
+  background-color: darkblue;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.khaki {
+  background-color: khaki;
+}
+
+.magenta {
+  background-color: magenta;
+}
+
+.turquiose {
+  background-color: turquoise;
+}
+
+.gainsboro {
+  background-color: gainsboro;
+}
+
+.gold {
+  background-color: gold;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.lavender {
+  background-color: lavender;
+}
+
+.lawngreen {
+  background-color: lawngreen;
+}
+
+.navy {
+  background-color: navy;
+}
+
+.maroon {
+  background-color: maroon;
+}
+
+.white {
+  background-color: white;
+}
